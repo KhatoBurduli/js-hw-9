@@ -1,0 +1,14 @@
+{
+  "name": "js-hw-9",
+  "version": "1.0.0",
+  "description": "this is my first npm project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khato",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
+}
